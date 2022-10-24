@@ -7,9 +7,19 @@
     <link rel="stylesheet" href="{{ url_for('static', 'index.css') }}">
     <title>Cloud</title>
 </head>
+<header>
+    <div class="header">
+        <a class="header active" href="#">Home</a>
+        <a class="header" href="/about">About</a>
+    </div>
+</header>
 <body>
+    <div class="line"></div>
     <div class="container">
-        <p>coucou</p>
+        <div class="infos">
+            <p class="title">Adopte un lycéen</p>
+            <input class="start" type="button" value="Commencer">
+        </div>
     </div>
 </body>
 </html>
