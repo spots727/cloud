@@ -159,7 +159,7 @@ body div.container div.interact div.button input:hover {
 }
 @media screen and (max-width: 1000px) {
   body div.container div.txt {
-    top: 40%;
+    top: 35%;
   }
   body div.container div.txt p.title {
     font-size: 3em;
