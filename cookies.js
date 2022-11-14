@@ -24,5 +24,6 @@ function getCookie(cname) {
 function checkCookie() {
     let username = getCookie("username");
     let password = getCookie("password");
-    return (username != "" && password != "")
+    let email = getCookie("email");
+    return (username != "" && password != "" && email != "")
 }
