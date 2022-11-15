@@ -78,7 +78,7 @@ body div.container div.wrapper div.signup p.title {
   font-size: 2em;
   font-family: "Fira Sans", Helvetica, Arial, sans-serif;
   color: var(--black-line);
-  cursor: none;
+  cursor: pointer;
 }
 body div.container div.wrapper div.signup p.title span {
   display: none;
@@ -168,7 +168,7 @@ body div.container div.wrapper div.login p.title {
   font-size: 1em;
   font-family: "Fira Sans", Helvetica, Arial, sans-serif;
   color: var(--blue-color);
-  cursor: none;
+  cursor: pointer;
 }
 body div.container div.wrapper div.login p.title span {
   display: flex;
