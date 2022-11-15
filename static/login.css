@@ -65,6 +65,7 @@ body div.container div.wrapper div.signup.inactive p.title {
   top: 10%;
   font-size: 1em;
   color: var(--blue-color);
+  cursor: pointer;
 }
 body div.container div.wrapper div.signup.inactive p.title span {
   display: flex;
@@ -78,7 +79,7 @@ body div.container div.wrapper div.signup p.title {
   font-size: 2em;
   font-family: "Fira Sans", Helvetica, Arial, sans-serif;
   color: var(--black-line);
-  cursor: pointer;
+  cursor: auto;
 }
 body div.container div.wrapper div.signup p.title span {
   display: none;
@@ -155,6 +156,7 @@ body div.container div.wrapper div.login.active p.title {
   top: 0%;
   font-size: 2em;
   color: var(--black-line);
+  cusor: auto;
 }
 body div.container div.wrapper div.login.active p.title span {
   display: none;
