@@ -61,6 +61,7 @@ body {
 						top: 10%;
 						font-size: 1em;
 						color: var(--blue-color);
+						cursor: pointer;
 						span{
 							display: flex;
 						}
@@ -75,7 +76,7 @@ body {
 					font-size: 2em;
 					font-family: "Fira Sans", Helvetica, Arial, sans-serif;
 					color: var(--black-line);
-					cursor: pointer;
+					cursor: auto;
 					span{
 						display: none;
 						margin-right: 5px;
@@ -151,6 +152,7 @@ body {
 						top: 0%;
 						font-size: 2em;
 						color: var(--black-line);
+						cursor: auto;
 						span{
 							display: none;
 						}
