@@ -156,7 +156,7 @@ body div.container div.wrapper div.login.active p.title {
   top: 0%;
   font-size: 2em;
   color: var(--black-line);
-  cusor: auto;
+  cursor: auto;
 }
 body div.container div.wrapper div.login.active p.title span {
   display: none;
